@@ -1,0 +1,165 @@
+
+{
+    "timeline":
+    {
+        "headline":"K! Timeline",
+        "type":"default",
+		"startDate":"2006",
+		"text":"History of Kurukshetra, the Battle of Brains.",
+		"asset":
+        {
+            "media":"https://maps.google.co.in/maps/ms?msid=210698585258794537939.0004c0d408e45c90ce07b&msa=0&ll=13.011039,80.235021&spn=0.012377,0.018539&z=15",
+            "credit":"",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"2007,1,18",
+                "headline":"YouTube",
+                "text":"Testing YouTube Videos",
+                "asset":
+                {
+                    "media":"http://youtu.be/yRvJylbSg7o",
+                    "credit":"",
+                    "caption":"Directed and Edited by Matt Mayer, Produced by Seth Keim, Written by Eliot Glazer. Featuring Eliot and Ilana Glazer, who are siblings, not married."
+                }
+            },
+            
+            {
+                "startDate":"2006,2,10",
+                "headline":"Shibu tweets",
+                "text":"",
+                "asset":
+                {
+                    "media":"https://twitter.com/#!/shibulijack/status/204993801901703172",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+			{
+                "startDate":"2006,2,8",
+                "headline":"About CEG",
+                "text":"The Battle of Brains",
+                "asset":
+                {
+                    "media":"http://en.wikipedia.org/wiki/College_of_Engineering,_Guindy",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            
+			{
+                "startDate":"2008,2,15",
+                "headline":"Headline",
+                "text":"Description text!",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+			{
+                "startDate":"2009,2,5",
+                "headline":"L'oeuf du sorcier",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/JdBqHgwN7Pg",
+                    "credit":"Georges Méliès",
+                    "caption":"L'oeuf du sorcier"
+                }
+            },
+
+			{
+                "startDate":"2009,2,7",
+                "headline":"Le tonnerre de Jupiter",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://youtu.be/nIylL8ufx3Y",
+                    "credit":"Georges Méliès",
+                    "caption":"Le tonnerre de Jupiter"
+                }
+            },
+			{
+                "startDate":"2010,2,3",
+                "headline":"Flickr",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/zachwise/6856858425/in/photostream",
+                    "credit":"Zach Wise",
+                    "caption":"Feels like Siberia again"
+                }
+            },
+			{
+                "startDate":"2011,2,7",
+                "headline":"Flickr",
+                "text":"",
+                "asset":
+                {
+                    "media":"http://www.flickr.com/photos/zachwise/6687123779/in/photostream",
+                    "credit":"Zach Wise",
+                    "caption":"Enjoying the snow while sheltered at the train station"
+                }
+            },
+			{
+                "startDate":"2012,2,7",
+                "headline":"A Tweet",
+                "text":"Grabbing a twitter status",
+                "asset":
+                {
+                    "media":"https://twitter.com/#!/neonmarg/status/167006310850760706",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+
+			{
+                "startDate":"2012,1,18",
+                "headline":"SoundCloud ",
+                "text":"We could even compose a theme music for K!",
+                "asset":
+                {
+                    "media":"http://soundcloud.com/radiohead/radiohead_separator-anstam-rmx",
+                    "credit":"Radiohead Separator - Anstam RMX",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2011,12,23",
+                "headline":"Vimeo",
+                "text":"<p>Whitestone Motion Pictures proudly presents ‘Jack and the Dustbowl’, a short film about overcoming adversity and making the impossible, possible.</p><p>Jack Spriggs, a poor dust bowl farmer from Alabama, is determined to keep his family’s land. Set during the Great Depression, record heat waves and over-farming have turned the once fertile soil into worthless dust. Refusing to become a victim of his circumstances, Jack embraces his surroundings and digs in. Jack’s tenacious spirit and ingenuity will either keep his family together or he'll lose everything trying.</p>",
+                "asset":
+                {
+                    "media":"https://vimeo.com/34724990",
+                    "credit":"Whitestone Motion Pictures",
+                    "caption":"Whitestone Motion Pictures proudly presents ‘Jack and the Dustbowl’, a short film about overcoming adversity and making the impossible, possible."
+                }
+            },
+			{
+                "startDate":"2011,2,10",
+                "headline":"Some Tweet Response also",
+                "asset":
+                {
+                    "media":"http://twitter.com/alykat/status/164184609519697920",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2010,12,10",
+                "headline":"Some Tweet Response",
+                "asset":
+                {
+                    "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
