@@ -1,4 +1,4 @@
-k13-timeline
-============
+Kurukshetra'13
+==============
 
 Timeline JS based splash page
