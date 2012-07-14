@@ -1,165 +1,456 @@
 
 {
-    "timeline":
-    {
-        "headline":"K! Timeline",
-        "type":"default",
-		"startDate":"2006",
-		"text":"History of Kurukshetra, the Battle of Brains.",
-		"asset":
-        {
-            "media":"https://maps.google.co.in/maps/ms?msid=210698585258794537939.0004c0d408e45c90ce07b&msa=0&ll=13.011039,80.235021&spn=0.012377,0.018539&z=15",
-            "credit":"",
-            "caption":""
-        },
-        "date": [
-            {
-                "startDate":"2007,1,18",
-                "headline":"YouTube",
-                "text":"Testing YouTube Videos",
-                "asset":
-                {
-                    "media":"http://youtu.be/yRvJylbSg7o",
-                    "credit":"",
-                    "caption":"Directed and Edited by Matt Mayer, Produced by Seth Keim, Written by Eliot Glazer. Featuring Eliot and Ilana Glazer, who are siblings, not married."
-                }
-            },
+    
+"timeline":
+    
+{
+"headline":"K! Timeline",
+        
+"type":"default",
+		
+"startDate":"2006",
+		
+"text":"History of Kurukshetra, the Battle of Brains.",
+		
+"asset":
+        
+{
             
-            {
-                "startDate":"2006,2,10",
-                "headline":"Shibu tweets",
-                "text":"",
-                "asset":
-                {
-                    "media":"https://twitter.com/#!/shibulijack/status/204993801901703172",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-
-			{
-                "startDate":"2006,2,8",
-                "headline":"About CEG",
-                "text":"The Battle of Brains",
-                "asset":
-                {
-                    "media":"http://en.wikipedia.org/wiki/College_of_Engineering,_Guindy",
-                    "credit":"",
-                    "caption":""
-                }
-            },
+"media":"https://maps.google.co.in/maps/ms?msid=210698585258794537939.0004c0d408e45c90ce07b&msa=0&ll=13.011039,80.235021&spn=0.012377,0.018539&z=16",
             
-			{
-                "startDate":"2008,2,15",
-                "headline":"Headline",
-                "text":"Description text!",
-                "asset":
-                {
-                    "media":"",
-                    "credit":"",
-                    "caption":""
-                }
-            },
+"credit":"",
+            
+"caption":"College of Engineering, Guindy."
+        
+},
+        
+"date": [
+            
+{
+                
+"startDate":"2007",
+                
+"headline":"Our First Edition",
+                
+"text":"Kurukshetra – the culmination of 217 years of ruling the engineering empire of South India. Being a <b>national level technical festival</b>, it’s an event of an incredible scale which has never been witnessed in the Anna University history. It had all the things that a technical festival should have had .<p>As the lingo goes, it had ‘COOL’ EVENTS, ‘COOLER’ PRIZES, ‘TECHIE’ PARTICIPANTS, ‘TECHIER’ LECTURES and more. With 35+ events and tremendous support from the industries, Kurukshetra highlighted January 4 -7, of 2007, the red letter days in the history of <b>CEG</b>.</p>",
+                
+"asset":
+                
+{
+                    
+"media":"",
+                    
+"credit":"",
+                    
+"caption":""
+                
+}
+            
+},
+            
+            
+{
+                
+"startDate":"2007,1,4",
+                
+"headline":"Guest Lectures",
+                
+"text":"The first edition had a wide gamut of guest lectures and workshops by eminent personalities from across the globe. The guest lecture series included some of the big names such as <b>Lakshmi Narayanan</b>, CEO and president, Cognizant Technology Solutions, and <b>G. Madhavan Nair</b>, chairman, ISRO, who delivered a lecture on Chandrayaan, India's first moon mission. He gave an insight into the unmanned mission, which is scheduled for 2008. Kurukshetra also had lectures of ad guru Prahalad Kakkar, Gopal Srinivasan, Director, TVS Electronics.",
+                
+"asset":
+                
+{
+                    
+"media":"",
+                    
+"credit":"",
+                    
+"caption":""
+                
+}
+            
+},
 
-			{
-                "startDate":"2009,2,5",
-                "headline":"L'oeuf du sorcier",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://youtu.be/JdBqHgwN7Pg",
-                    "credit":"Georges Méliès",
-                    "caption":"L'oeuf du sorcier"
-                }
-            },
+			
+{                
+"startDate":"2007,1,5",
+                
+"headline":"Workshops",
+                
+"text":"Students from across the country learnt how to build autonomous robots, ethically hack networks and upgrade automobiles to racing standards which gave them hands-on experience on various cutting edge technologies.<br>The <b>iTRiX</b> workshop on autonomous robotics taught the fundamentals of designing and building autonomous robots. The two-day workshop took the participants from the basics of microcontrollers to the level where they can build their own autonomous machines. The second in the series was the <b>Ethical Hacking Workshop</b> which demonstrated the vulnerabilities that exist in an enterprise network to the audience. The <b>Automobile Workshop</b> provided insight into the two-wheeler and four-wheeler intricacies and performance enhancements.Some other workshops in the offing included Aero Modeling Demonstration and IBM workshop.",
+                
+"asset":
+                
+{
+                    
+"media":"",
+                   
+"credit":"",
+                   
+"caption":""
+                
+}
+            
+},
+            
+			
+{
+                
+"startDate":"2007,1,6",
+                
+"headline":"Events",
+                
+"text":"The <b>project exhibition</b> event received an overwhelming response with more than 250 entries and 25 teams short-listed for the final display.<br>Hosted by Dr.Navin Jayakumar of Landmark fame, along with Mr. Gopal Kidao, the <b>K! Open Quiz</b> proved to be a cutthroat battle of the best brains from all over the country. With its remarkable success in its first edition it gained the ever-increasing reputation of being one of the most entertaining and toughest quizzes of the quizzing calendar.<br><b>Rumble in the Junk</b> is the sort of event where the participants are expected to design a working model of a scientific device or machine using commonplace materials. This event being the first of its kind with the theme ‘Turn Waste into Wealth with the Application of Engineering ’ attracted a huge enthusiastic crowd.",
+               
+ "asset":
+               
+{
+                    
+"media":"",
+                    
+"credit":"",
+                    
+"caption":""
+                
+}
+            
+},
 
-			{
-                "startDate":"2009,2,7",
-                "headline":"Le tonnerre de Jupiter",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://youtu.be/nIylL8ufx3Y",
-                    "credit":"Georges Méliès",
-                    "caption":"Le tonnerre de Jupiter"
-                }
-            },
-			{
-                "startDate":"2010,2,3",
-                "headline":"Flickr",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://www.flickr.com/photos/zachwise/6856858425/in/photostream",
-                    "credit":"Zach Wise",
-                    "caption":"Feels like Siberia again"
-                }
-            },
-			{
-                "startDate":"2011,2,7",
-                "headline":"Flickr",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://www.flickr.com/photos/zachwise/6687123779/in/photostream",
-                    "credit":"Zach Wise",
-                    "caption":"Enjoying the snow while sheltered at the train station"
-                }
-            },
-			{
-                "startDate":"2012,2,7",
-                "headline":"A Tweet",
-                "text":"Grabbing a twitter status",
-                "asset":
-                {
-                    "media":"https://twitter.com/#!/neonmarg/status/167006310850760706",
-                    "credit":"",
-                    "caption":""
-                }
-            },
+			
+{
+                
+"startDate":"2008",
+                
+"headline":"Kurukshetra'08",
+                
+"text":"K'08 was organized from the 22nd to the 25th of January, 2008 as the second edition in CEG, Anna University.",
+                
+"asset":
+                
+{
+                    
+"media":"http://www.youtube.com/watch?v=T6gkRw_pV04",
+                    
+"credit":"",
+                   
+"caption":"Kurukshetra'08 Promo"
+                
+}
+            
+},
 
-			{
-                "startDate":"2012,1,18",
-                "headline":"SoundCloud ",
-                "text":"We could even compose a theme music for K!",
-                "asset":
-                {
-                    "media":"http://soundcloud.com/radiohead/radiohead_separator-anstam-rmx",
-                    "credit":"Radiohead Separator - Anstam RMX",
-                    "caption":""
-                }
-            },
-			{
-                "startDate":"2011,12,23",
-                "headline":"Vimeo",
-                "text":"<p>Whitestone Motion Pictures proudly presents ‘Jack and the Dustbowl’, a short film about overcoming adversity and making the impossible, possible.</p><p>Jack Spriggs, a poor dust bowl farmer from Alabama, is determined to keep his family’s land. Set during the Great Depression, record heat waves and over-farming have turned the once fertile soil into worthless dust. Refusing to become a victim of his circumstances, Jack embraces his surroundings and digs in. Jack’s tenacious spirit and ingenuity will either keep his family together or he'll lose everything trying.</p>",
-                "asset":
-                {
-                    "media":"https://vimeo.com/34724990",
-                    "credit":"Whitestone Motion Pictures",
-                    "caption":"Whitestone Motion Pictures proudly presents ‘Jack and the Dustbowl’, a short film about overcoming adversity and making the impossible, possible."
-                }
-            },
-			{
-                "startDate":"2011,2,10",
-                "headline":"Some Tweet Response also",
-                "asset":
-                {
-                    "media":"http://twitter.com/alykat/status/164184609519697920",
-                    "credit":"",
-                    "caption":""
-                }
-            },
-			{
-                "startDate":"2010,12,10",
-                "headline":"Some Tweet Response",
-                "asset":
-                {
-                    "media":"http://twitter.com/ArjunaSoriano/status/164181156147900416",
-                    "credit":"",
-                    "caption":""
-                }
-            }
-        ]
-    }
+			
+{
+                
+"startDate":"2008,1,22",
+                
+"headline":"Business Plan",
+                
+"text":"As any business magnate tells, it all starts with a vision and that is how the journey began in Kurukshetra too. This event gave a perfect opportunity to put the “Vision” power to the test. A few participants pioneered with new ideas and the rest, with innovative modifications of existing models. It helped them realize their innate knack and to see where they stood in the realm of entrepreneurship.",
+                
+"asset":
+                
+{
+                    
+"media":"",
+                    
+"credit":"",
+                    
+"caption":""
+                
+}
+            
+},
+			
+{
+                
+"startDate":"2008,1,23",
+                
+"headline":"AI Programming",
+                
+"text":"This is an event that helped turn science fiction into reality! At Kurukshetra '08 , a challenging environment was established to pitch the virtual bots against each other in a titanic battle for supremacy. The aim was to design algorithms for one’s team bots to fight it out with bots of another human opponent and it proved to be a true edutainment.",
+                
+"asset":
+                
+{
+                    
+"media":"http://3.bp.blogspot.com/-acx8V3Ldv7Y/T1EHesLG9PI/AAAAAAAAAtU/r3zxRWtrlDo/s1600/Artificial+intelligence.jpg",
+                    
+"credit":"",
+                    
+"caption":""
+                
+}
+            
+},
+			
+{
+                
+"startDate":"2008,1,24",
+                
+"headline":"Software Modulation",
+                
+"text":"The aim was to design a “working, practical software system” from scratch. It requires dexterity to create something out of nothing and the participants proved their mettle beyond this challenge. It gave a chance to go head to head against the best designers and programmers from across the country.",
+                
+"asset":
+                
+{
+                    
+"media":"",
+                    
+"credit":"",
+                    
+"caption":""
+                
+}
+            
+},
+			
+{	
+ 
+"startDate":"2009",		
+"headline":"Kurukshetra'09",		
+"text":"With the confidence gained by the phenomenal yesteryear’s success, Kurukshetra '08 shaped up to be bigger and better than its predecessor. Over 35 events were conducted and it continued to receive its support, pouring in from the industry.", 	
+"asset": 	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2009,2,1", 	
+"headline":"Vestas Innovation Challenge", 	
+"text":"With wind-power major ‘Vestas India’ as the lead sponsor, the event hosted a two-day energy conclave, with experts discussing economical and eco-friendly ideas to deal with the energy crisis, the pressing need of the hour. The event’s showpiece contest was ‘Vestas Innovation Challenge’, in which participants were asked to develop a solution or device to convert the available wind into power in order to provide additional energy to a self-contained island prone to strong winds for half-a-year.", 		
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2009,1,20", 	
+"headline":"Xceed", 		
+"text":"XCEED was started right from the maiden year with the view of bringing Kurukshetra very close to the participant's own city and to provide the local crowd a flavor of what Kurukshetra is all about.  This edition of Kurukshetra saw teams from across the country fight their opponents on the football pitch, showcase their robot's intelligence by getting it to solve a line maze, and many more challenges. The highlight is that the regional champs gain entry to the national finals that are held during Kurukshetra.", 	
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2010", 		
+"headline":"Kurukshetra'10", 		
+"text":"Kurukshetra grew to be the trademark of College of Engineering, Guindy with its success stories over the years! Kurukshetra 2010, held from January 20 to 23, 2010 had a whole range of signature events and also a host of experimental ones.", 		
+"asset":	
+{	
+"media":"http://www.youtube.com/watch?v=KFuk1Xl10QQ", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2010,1,27", 	
+"headline":"Origami-A world record attempt", 	
+"text":"Origami - the art that blends creativity and geometry, is at once, a challenge to the eye, brain and fingers. An Origami folded model is both a piece of art and a geometric figure. In Kurukshetra 2010, a team of CEGians along with the Origami expert, Mr. Himanshu Agarwal made an Origami dinosaur of length 105 feet from head to toe. It took 15 hours to fold it from 95 feet square. It was done in an unused airplane hangar of Madras Institute of Technology campus And this origami dinosaur found place in the Limca book of records!",
+ "asset":
+                
+{
+                    
+"media":"",
+                   
+"credit":"",
+                   
+"caption":""
+                
+}
+            
+},
+{	
+"startDate":"2010,1,28", 	
+"headline":"Laser show", 	
+"text":"The professional laser show with an animated presentation, beam effects and high clarity acoustics, has been one of the highlights of Kurukshetra. The projected laser beams choreographed to a musical soundtrack and theme, filling the atmosphere with dazzling animations and colorful image sequences. Year after year, it has been a special experience—a memory of beauty and brilliance that stays with you forever.",	
+"asset": 	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2010,1,29", 	
+"headline":"Know Your Bike-Workshop",	
+"text":"I believe that there are two periods in life-one for the bike, and the other, for becoming active in one's work <b>Bernard Hinault</b>. The workshop for the inquisitive minds on the intricate workings of the bike. Shubhabrata Marmar, a veteran in the field of automotive journalism business for almost a decade , who was one of the first to specialise in motorcycles heralded the workshop. It was followed by a contest on the same field. The contest had 20 minutes to dismantle and 40 minutes to assemble.", 	
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2010,1,30", 	
+"headline":"Madras Science & Technology Exhibition", 	
+"text":"<i>By The Madras Heritage Lovers</i><p>Madraspatnam, Madras and now Chennai, whatever changes the name has undergone, this 350 year old city of Madras has always retained its old world charm while being open to modern cultural and social changes. This is one rare city that seamlessly evokes a sense of nostalgia and affection even amidst the hustle and bustle of a growing metro. Buried in the sands of time are the real wonders of Madras, which, were on display at Kurukshetra's highlight exhibition - Madras, Science and Technology.</p><p>This display featured photo exhibits of the Buckingham Canal and The Arch Bridges of Madras, a wide philately collection, display of antique objects and a wide array of books on Madras. There was also a display of Mr. D. Hemachandra Rao's collection of objects related to ships. The history of science and technology in Madras was showcased through Mr. Nelson's collection of stamps and through Mr. Winston A. Henry's collection of books (several first edition ones).</p>", "asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2010,1,31", 	
+"headline":"Events", 		
+"text":"<b>GOD SPEED:</b><br>Anything happens in Grand Prix racing, and it usually does.<br><b>Murray walker:</b><br>For those obsessed with speed, K’10 organized an event named “God speed” to prove their mettle at the hand bar.  The participants’ coalesced speed and energy management to create a hybrid and contest for the cup .The spectators were spellbound at the potential of the IC engine-powered Radio-controlled buggies that strolled the multi-terrain track with élan.<br><b>K!ONSTRUCTOR</b><br>A robotic event orchestrated to unleash the creativity of the competitors in constructing an Asimovian mindstorm to perform the required task. The task given was to build a robot that helps with construction. This event was a huge success with 74 participating teams.", 		
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2011", 		
+"headline":"Kurukshetra'11", 		
+"text":"", 		
+"asset":	
+{	
+"media":"http://www.youtube.com/watch?v=fxOPRuPPxXo", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{
+"startDate":"2011,1,27",
+"headline":"Kurukshetra'11",
+"text":"<p>The fifth edition of Kurukshetra, the annual techno-management festival organized by students of the College of Engineering, Guindy, was held from February 2 to 5, 2011. Supported by the UNESCO, the festival had been built around the theme ‘Past, Present and Future'. About 16,000 students from over 80 countries participated in 48 events, held both on-site and online. The students attempted to enable virtual participation in the lecture series through live telecast over the internet for students who could not attend in person.<p><p>Three companies came forward to provide paid internships to selected students based on their performance at the festival. Workshops on the design of hovercrafts, wildlife photography and rocketry were the highlights. The exhibitions that formed a part of the festival include ISRO’s exhibition on Chandrayan and ‘Arms and ammunition’ by the Police Department. An entrepreneurship summit coincided with the festival. The total prize money for various competitions was Rs.10 lakh. </p>",
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+
+{
+"startDate":"2011,1,28",
+"headline":"Projects",
+"text":"<b>SURVEY THE SEAS:</b>The development of a robot for underwater surveillance was undertaken by students as a part of Kurukshetra 11. The robot possesses a video camera that enables it to record the under-water scenarios. Such a robot can find uses in myriad areas right from exploring minerals to monitoring pollution level under seas. By equipping it with solar panels for power supply and GPS for tracking, it can be used in conducting geological surveys, reaching into crevices and trenches that man cannot enter.<br><b>SATAR:</b>Surveillance All Terrain Robot (SATAR) is another interesting project that developed a robot that can move through difficult terrain and perform surveillance of the area using GPS and a live wireless video feed, while being controlled from a base station. One area where such an innovation was useful is defense and rescue missions.<br><b>AUTOMATED GROUND VEHICLE:</b>Automated ground vehicles for carrying paper rolls are common now-a-days in the paper industry. But with its customary zeal for innovation,  K’11 aimed to  improve the efficiency of the process and,  along the way, trained students  to be tomorrow’s innovators.  Complete with all the appendages such as robotic arms and  other robotics paraphernalia, this project attracted the automation aficionado in everyone.",
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+
+
+{
+"startDate":"2011,1,29",
+"headline":"Workshops",
+"text":"<b>REACHING SKY HIGH: </b>In an attempt to educate students on such an engrossing topic, Kurukshetra 11 held a rocketry workshop by Mr. Pratham Ambla, who was the first to organize model rocket competitions in India and also the first Indian competitor in the international circuits of the same.  <br><b>GADGETRY:</b>Kurukshetra 11’s gadgetry workshop included three solid hours of the good-old tweaking and twiddling.  <br><b>RACING AHEAD:</b>‘Deconstructed’ is a workshop that focused on avid race car lovers. After an extensive theoretical session on the internal workings of these speed-monsters, a  hands-on session that is characteristic of all Kurukshetra workshops was also held.<br><b> IMAGE PROCESSING:</b> This workshop focused on the integration of Image Processing, MATLAB and Robotics. A brief lecture by Dr. K.Rajitha, professor, BITS-Pilani dominated the first session followed by a demo session of Image Processing in Robotics.",
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+
+{
+"startDate":"2011,1,29",
+"headline":"More Workshops",
+"text":"<b>GAME DEVELOPMENT: </b>It was designed to enlighten the participants on the programming principles involved in games and the virtual simulation that is so very popular in today’s games, along with the inherent challenges in programming such environments and the ways to overcome them. <br><b>THAT’S HOW U TALK!! (A Management workshop):</b>This workshop was designed to hone the communication skills of the  participants with lectures  from renowned experts of  communication, and discussions on the various  strategies for connecting with  people.<br><b>LIFE IN THE JUNGLE:</b>Presenting the rare opportunity for students to interact with the finest wild-life photographer in India, Ms. Rathika Ramasamy, the Wild-life photography workshop of Kurukshetra ‘11 was a new addition to the catalogue of  innovative workshops that  characterize K! in each of  its editions. <br><b>WORKSHOP FOR SCHOOL STUDENTS:</b>Trebuchet, the atom bomb of the medieval century, returned this K! as the students of  CEG  presented a workshop on  it. Dealing with projectiles  and kinematics which basically explain how a trebuchet actually works, this  workshop aimed at school  students and was designed to  be a fun-way to teach them  the real world applications of  text-book  physics.",
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+
+{
+"startDate":"2011,1,30",
+"headline":"Website",
+"text":" A search feature was the most noticeable and striking innovation in 2011 in the K! website. Also from then on, it was easier for participants to follow Kurukshetra on popular social networking sites like Facebook, Orkut and Twitter, and get a constant stream of updates on various activities. The Really Simple Syndication (RSS) feed was being improved upon to make it better in  terms of simplicity as well as  efficiency. Another innovation for the site was a desktop client, which enabled offline browsing of the website by users and automatic updating of the site  when connected to the Internet. ",
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+
+{
+"startDate":"2011,1,31",
+"headline":"Guest lectures",
+"text":"Infosys CEO Kris Gopalakrishnan, Rediff.com CEO Ajit Balakrishnan, HP Labs India Director Sudhir Dixit and archaeologist Michael A. Cremo were among the guest speakers. German physicist and Nobel laureate Peter Andreas Grunberg and structural engineer Leslie Earl Robertson addressed the festival through videoconference.",
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2012", 		
+"headline":"Kurukshetra'12", 		
+"text":"", 		
+"asset":	
+{	
+"media":"http://www.youtube.com/watch?v=gb29He5eWY8", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2012,1,8", 	
+"headline":"Allazo campaign", 		
+"text":"The first of its kind, this campaign was seeded to spearhead a movement to organize India’s vast pool of students, engineers and officials to contribute to the socio-economic development of the country. The campaign entitled “INVEST BACK IN INDIA – BE THE CHANGE addressed the issue of “brain-drain”. Dr.Kamala Selvaraj, Director of GG Hospitals, Singer Chinmayi, Lyricist-cum-Professor Dr.Madhan Karky, and BIG FM’s RJ Ophelia graced the occasion to help support the cause.", 	
+"asset":	
+{	
+"media":"http://www.youtube.com/watch?v=HozWuloRBmU", 	
+"credit":"", 	
+"caption":""	
+}	
+},
+{	
+"startDate":"2012,2,3", 	
+"headline":"Highlight Events", 		
+"text":"<b>Night Photography Workshop</b> – Yet another first of its kind attempt by Kurukshetra to provide budding astronomists a chance to catch light in the night! With a practical session provided by deep-sky astro-photographer, Dr. Suresh Mohan, this popular hobby-cum- research tool served as an eye-opener for many keen students. <br><b>Robo wars</b> - With hordes of robot-addicts and enthusiasts pouring in from all over India, the automated bots engaged in a heated combat. This highly competed event raised the fervour of Kurukshetra.<br><b>Riddles of Sphinx</b> - K!12 saw the unsurpassed online treasure hunt, called 'The Riddles of the Sphinx' which began its trial run a few months earlier in 2011 , and successfully managed to accomplish 3 seasons, with each season getting more intriguing and puzzling than the previous one. 4000+ participants catapulted the season participants’ count from earlier records of 1500+ participants.", 	
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+}, 	
+{	
+"startDate":"2012,2,2", 	
+"headline":"Guest lectures", 		
+"text":"K '12 had perhaps the most prominent series of guest-lectures, including those of Sir Victor Hayes, the Father of Wi-Fi, Shri. Veeraraghavan, the Director of the Vikram Sarabhai Space Center, Dr. David Henson, a pioneer in the field of artificial intelligence, and Harry Kroto, a Nobel Laureate.",   	
+"asset":	
+{	
+"media":"", 	
+"credit":"", 	
+"caption":""	
+}	
+},    
+{	
+"startDate":"2013", 		
+"headline":"K'13 Koming soon", 		
+"text":"", 		
+"asset":	
+{	
+"media":"http://youtu.be/S2DycLWUy4Q", 	
+"credit":"", 	
+"caption":""	
+}	
+}    
+]
+    
+}
+
 }

@@ -24,65 +24,36 @@ html, body
 {
 			max-height: 100px;
 			text-align: center;
-			padding: 0px;
+			padding: 5px;
 			background: url('pattern.png') repeat-x;
+			background-color: #3b5998;
 			box-shadow: 0 5px 0px 5px #000;
-			animation:kolor 60s linear infinite;
-			-moz-animation:kolor 60s linear infinite; /* Firefox */
-			-webkit-animation:kolor 60s linear infinite; /* Safari and Chrome */
 			border-bottom: 1px solid rgba(0,0,0,0.2);
 			box-shadow:0 -2px 10px rgba(0,0,0,0.3) inset;
 }
-@keyframes kolor
-{
-0%   	{background:#97080E;}
-25% 	{background:#DA4B0F;}
-50% 	{background:#488C13;}
-70% 	{background:#1B55C0;}
-100%	{background:#97080E;}	
+#klogo{padding-right:10px;-webkit-transition: -webkit-transform 1s linear;
+	-moz-transition: -moz-transform 1s linear;
+	-ms-transition: -ms-transform 1s linear;
+	-o-transition: -o-transform 1s linear;
+	transition: transform 1s linear;}
+#klogo:hover{-webkit-transform: rotate(1turn);
+		-moz-transform: rotate(1turn);
+		-ms-transform: rotate(1turn);
+		-o-transform: rotate(1turn);
+		transform: rotate(1turn);}
+#unesco {
+position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  margin: 6px 5px 5px 5px;
+  border: 1px solid #444;
+  border-radius: 5px;
 }
-
-@-moz-keyframes kolor /* Firefox */
-{
-0%   	{background:#97080E;}
-25% 	{background:#DA4B0F;}
-50% 	{background:#488C13;}
-70% 	{background:#1B55C0;}
-100%	{background:#97080E;}
-}
-
-@-webkit-keyframes kolor /* Safari and Chrome */
-{
-0%   	{background:#97080E;}
-25% 	{background:#DA4B0F;}
-50% 	{background:#488C13;}
-70% 	{background:#1B55C0;}
-100%	{background:#97080E;}
-}
-
-@keyframes kolortxt
-{
-0%   	{color:#97080E;}
-25% 	{color:#DA4B0F;}
-50% 	{color:#488C13;}
-70% 	{color:#1B55C0;}
-100%	{color:#97080E;}
-}
-
-@-moz-keyframes kolortxt /* Firefox */
-{
-0%   	{color:#97080E;}
-25% 	{color:#DA4B0F;}
-50% 	{color:#488C13;}
-70% 	{color:#1B55C0;}
-100%	{color:#97080E;}
-}
-
-@-webkit-keyframes kolortxt /* Safari and Chrome */
-{
-0%   	{color:#97080E;}
-25% 	{color:#DA4B0F;}
-50% 	{color:#488C13;}
-70% 	{color:#1B55C0;}
-100%	{color:#97080E;}
+#fb {
+position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 999;
+  margin-top: 20px;
 }
